@@ -2,3 +2,5 @@
 .gradle/
 .idea
 .idea/
+gradlew
+gradlew.bat
